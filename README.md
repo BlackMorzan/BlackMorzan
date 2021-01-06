@@ -9,7 +9,7 @@
 - 🔭 &nbsp; I’m currently learning C# by contributing to [DevAdventCalendar](https://github.com/DevAdventCalendar/DevAdventCalendar) and working on app for my uniwersity [Prepraration_Cell_Viewer](https://github.com/BlackMorzan/Prepraration_Cell_Viewer)
 - 🎓 &nbsp; I'm a graduate of The University of Technologies in Wroclaw in field of Automatics and Robotics.
 - ✍️ &nbsp; For hobbies I'm interested in space, robotics and games.
-- ☕ &nbsp; Love hiking, swimming, books and games.
+- 🗻 &nbsp; Love hiking, swimming, books and games.
 
 <h3>🛠 Tech Stack</h3>
 
