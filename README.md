@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; C++ | C# | C | Python | Bash
+- 🌐 &nbsp; C++ | C# | C | Python(basic) | Bash(basic)
 - 💻 &nbsp; Visual Studio | QT Creator | Unity
 - 🔧 &nbsp; Linux | MySQL | Doxygen | Latex 
 - 🤖 &nbsp; Process Simulate | ROS
