@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working for Capgemini. I'm mainly using there Java and Angular. 
+- 🔭 &nbsp; I’m currently working for Capgemini. Mainly using there Java and Angular. 
 - 🎓 &nbsp; I'm a graduate of The University of Technologies in Wroclaw in field of Automatics and Robotics.
 - ✍️ &nbsp; For hobbies I'm interested in space, robotics and games.
 - 🗻 &nbsp; Love hiking, swimming, books and games.
