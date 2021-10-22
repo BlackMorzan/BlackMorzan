@@ -6,15 +6,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning C# by contributing to [DevAdventCalendar](https://github.com/DevAdventCalendar/DevAdventCalendar) and working on app for my uniwersity [Prepraration_Cell_Viewer](https://github.com/BlackMorzan/Prepraration_Cell_Viewer)
+- 🔭 &nbsp; I’m currently working for Capgemini. I'm mainly using there Java and Angular. 
 - 🎓 &nbsp; I'm a graduate of The University of Technologies in Wroclaw in field of Automatics and Robotics.
 - ✍️ &nbsp; For hobbies I'm interested in space, robotics and games.
 - 🗻 &nbsp; Love hiking, swimming, books and games.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; C++ | C# | C | Python(basic) | Bash(basic)
-- 💻 &nbsp; Visual Studio | QT Creator | Unity
+- 🌐 &nbsp; C++ | C# | Java | JS | Bash(basic)
+- 💻 &nbsp; Visual Studio | Angular | Unity
 - 🔧 &nbsp; Linux | MySQL | Doxygen | Latex 
 - 🤖 &nbsp; Process Simulate | ROS
 
